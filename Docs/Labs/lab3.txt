@@ -1,0 +1,26 @@
+LAB - 3
+Team “GGC”
+
+Team members:
+1.Kerimbek Alisher
+2.Kozhan Alim
+3.Kurmanzhankyzy Akmaral
+4.Abiyr Maira
+5.Auyeskhan Elmira
+
+Project A2_Example5 (Erkemai)
+
+Screenshot problems:
+
+1.	Menus, buttons, entry fields and action mechanisms are not described.
+2.	No number/name input, output and action mechanisms of each screen.
+3.	Event that makes the screen appear isn’t written.
+
+Screenflow problems:
+
+1.	Not one page used. 
+
+Benefit:
+
+1.	Screenshots help to understand the whole project.
+2.	Screenshots economies the time
